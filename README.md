@@ -1,4 +1,5 @@
 Ideas
 =====
 
-Cool
+* cool
+* nice
